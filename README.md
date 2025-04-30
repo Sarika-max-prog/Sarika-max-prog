@@ -1,96 +1,75 @@
 # 👋 Hi there, I'm Sarika!
 
-Welcome to my GitHub profile! I'm passionate about using data to uncover meaningful insights and building interactive dashboards that drive better decisions.
+🎓 **MCA Graduate** | 🔍 **Aspiring Data Analyst & Machine Learning Enthusiast** | 🌦️ **Dashboard & Visualization Lover**
+
+💡 I’m passionate about transforming **raw data into real insights** that can drive smarter decisions.  
+📚 I love learning and enjoy diving into **Data Analytics, Machine Learning, and Web Scraping**.  
+🧠 Constantly exploring how to make data storytelling engaging, interactive, and meaningful.  
+🚀 Currently building ML projects with real-world impact, one model at a time!
 
 ---
 
-## 💼 Summary
-
-Aspiring Data Analyst with a strong foundation in data wrangling, visualization, and predictive modeling. I enjoy exploring large datasets, uncovering patterns, and presenting findings in an impactful and visually appealing way. My recent projects combine my technical skills in Python, SQL, and Power BI with storytelling techniques to build compelling dashboards.
-
----
-
-## 🎓 Education
-
-- 🎓 MCA, Avanthi PG College – *Jan 2020 – Nov 2022*
-- 🎓 Data Analyst Program, Masai School – *Nov 2024 – Apr 2025*
+### 🌟 Fun Facts:
+- 🎨 I enjoy creating dashboards that are not just insightful but beautiful too!
+- 💬 I'm a strong believer in "If you can’t explain it simply, you don’t understand it well enough."
+- 🐾 Coffee, colors, and coding keep me going
+- ✨ I also love crafting handmade gifts when I'm not coding
 
 ---
 
-## 🚀 Projects
-
-### 📘 **Insights into Book Popularity & Reviews**
-Built an end-to-end interactive dashboard to analyze Goodreads book data. Cleaned and processed 10,000+ records using Python, stored data in MySQL, and created performance-optimized dashboards in Power BI. Key insights included top-rated books, author analysis, genre trends, and rating patterns over the years to help users discover popular and high-rated books effectively.
-
-#### ✅ Features
-- Interactive Power BI dashboard with slicers for author, publisher, and language
-- Visuals for top-rated books, popular authors, and rating trends over time
-- Genre and language-based insights for deeper analysis
-- Hierarchical filter combining author and publisher
-- End-to-end project using Python, SQL, and Power BI
-
-#### 🛠️ Tech & Tools Used
-Python, Pandas, Matplotlib, Seaborn, SQL (MySQL Workbench), Power BI
+## 🔧 Soft Skills
+**Storytelling**, **Problem Solving**, **Teamwork**, **Decision Making**, **Continuous Learner**
 
 ---
 
-### 🌤️ **Weather Prediction**
-Developed a supervised machine learning model to predict weather conditions (e.g., Rainy, Sunny, Cloudy) using historical weather data. The project aimed to assist in planning and decision-making by providing accurate short-term forecasts.
+## 🛠 Languages and Tools
 
-#### ✅ Features
-- Collected and cleaned real-world weather data from Kaggle
-- Performed feature engineering (temperature, humidity, wind speed, etc.)
-- Used classification models (e.g., Logistic Regression, Random Forest)
-- Evaluated performance using accuracy, precision, recall, and F1-score
-- Automated daily predictions using a scheduler
-- Visualized results on an interactive dashboard (Power BI / Streamlit)
+### 💻 Languages  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 
-#### 🛠️ Tech & Tools Used
-Python, Pandas, Scikit-learn, Streamlit / Power BI
+### 🧰 Tools  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi)  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat&logo=jupyter)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
----
+### 📚 Libraries & Frameworks  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?style=flat&logo=scikit-learn)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly)  ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-green?style=flat)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 
-## 🧠 Skills & Interests
-- Python, SQL, Power BI, Excel
-- Machine Learning, Web Scraping, Data Cleaning
-- Dashboard Design, Data Storytelling
+### 🤖 Machine Learning  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10277e?style=flat&logo=google)  ![Random Forest](https://img.shields.io/badge/-Random%20Forest-darkgreen?style=flat)
 
 ---
 
-## 💡 Soft Skills
-- Interpersonal Skills
-- Attention to Detail
-- Time Management
+## 💼 Projects
+
+- 🌐 [**Weather Dashboard**](https://weatherdashboard-bgyuzv9bxhs4yf4ktfvzxc.streamlit.app/):  
+  A real-time **Seattle weather prediction app** using a Random Forest model. Includes visualizations like prediction probabilities, feature importance, and interactive temperature trends using Streamlit.
+
+- 📊 [**Startup Investment Analysis**]:  
+  Analyzed funding trends across years, sectors, and cities. Interactive Power BI dashboard built for investors and entrepreneurs to explore India's startup scene.
+
+- 📈 [**Social Media Trend Analysis**]:  
+  Studied trending keywords, engagement metrics, and platform performance using Python, NLP, and visual storytelling.
+
+- 🧩 [**Data Modeling Experts**]:  
+  Hands-on experience designing **normalized relational databases**, ER diagrams, and writing complex SQL queries for real-world use cases.
 
 ---
 
-## 📜 Certifications
-- Data Analytics Workshop Certificate – *Jobaaj Learning Institute*
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sarika-max-prog&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Sarika's GitHub Streak" />
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🥇 1st Place – District-level Chess Competition
-- 🎨 Winner – District-level Drawing Competition
+## 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/ciricilla-sarika-174307243) • [Email](sarikada25@gmail.com) • [GitHub](https://github.com/Sarika-max-prog)
 
 ---
 
-## 📎 Connect with Me
+> ✨ *Thanks for visiting my profile — let’s build something amazing with data!* 🌟
 
-[![LinkedIn](www.linkedin.com/in/ciricilla-sarika-174307243)
-[![GitHub](https://github.com/Sarika-max-prog/Sarika-max-prog/edit/main/README.md)
-
----
-
-## 🌟 More About Me
-
-- 🔭 I’m currently working on building interactive dashboards and predictive models using real-world datasets.  
-- 🌱 I’m currently learning advanced Machine Learning techniques and model deployment using **Streamlit** and **Power BI**.  
-- 👯 I’m looking to collaborate on **data-driven projects** that solve real-world problems and create impactful insights.  
-- 🤔 I’m looking for help with **time series forecasting** and **data storytelling** techniques.  
-- 💬 Ask me about **Python, SQL, Power BI, data cleaning, or dashboard design** — I love solving problems with data!  
-- 📫 How to reach me: **[sarikada25@gmail.com](sarikada25@gmail.com)**   
-- ⚡ Fun fact: I find patterns in everything — from data to art! I’m also a district-level **chess and drawing** competition winner 🏆🎨
-
----
 
