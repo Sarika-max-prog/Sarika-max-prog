@@ -1,68 +1,77 @@
-# 👋 Hi there, I'm Sarika!
+# 👩‍💻 Hey, I'm Sarika!
 
-🎓 **MCA Graduate** | 🔍 **Aspiring Data Analyst & Machine Learning Enthusiast** | 🌦️ **Dashboard & Visualization Lover**
+🎓 I'm an MCA graduate with a deep passion for **data analysis, visualization**, and **machine learning**.  
+📊 I believe in the power of data to tell stories, solve problems, and drive smart decisions.  
+🔍 I'm currently exploring real-world projects using **Python**, **SQL**, and **Power BI**, and building hands-on skills in **machine learning** and **web scraping**.
 
-💡 I’m passionate about transforming **raw data into real insights** that can drive smarter decisions.  
-📚 I love learning and enjoy diving into **Data Analytics, Machine Learning, and Web Scraping**.  
-🧠 Constantly exploring how to make data storytelling engaging, interactive, and meaningful.  
-🚀 Currently building ML projects with real-world impact, one model at a time!
-
----
-
-### 🌟 Fun Facts:
-- 🎨 I enjoy creating dashboards that are not just insightful but beautiful too!
-- 💬 I'm a strong believer in "If you can’t explain it simply, you don’t understand it well enough."
-- 🐾 Coffee, colors, and coding keep me going
-- ✨ I also love crafting handmade gifts when I'm not coding
+I enjoy turning messy data into clear insights — whether it's a dashboard, a predictive model, or a fun scraping tool!
 
 ---
 
-## 🔧 Soft Skills
-**Storytelling**, **Problem Solving**, **Teamwork**, **Decision Making**, **Continuous Learner**
+## 💡 About Me
+
+- 💼 **Aspiring Data Analyst & Machine Learning Learner**
+- 🧠 Self-motivated and always curious to learn new tools and technologies
+- 🧵 I blend creativity with logic — from building ML models to crafting mini dashboards
+- 🧪 Currently working on **projects around weather prediction**, **startup analysis**, and **social media trends**
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠️ My Skill Set
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+### 🐍 Python for Data Science
+- Data Analysis: `Pandas`, `NumPy`
+- Data Visualization: `Matplotlib`, `Seaborn`, `Plotly`
+- Machine Learning: `Scikit-learn`, `Random Forest`, `Logistic Regression`
+- Web Scraping: `BeautifulSoup`, `Selenium`
+- Automation & APIs
 
-### 🧰 Tools  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi)  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat&logo=jupyter)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+### 🧮 SQL
+- Complex queries
+- Joins, subqueries, CTEs
+- Window functions
+- Data modeling and ER diagrams
 
-### 📚 Libraries & Frameworks  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?style=flat&logo=scikit-learn)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly)  ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-green?style=flat)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+### 📊 Power BI & Excel
+- Interactive dashboards
+- Power Query & DAX
+- Data cleaning and visual storytelling
+- Charts, pivot tables, slicers
 
-### 🤖 Machine Learning  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10277e?style=flat&logo=google)  ![Random Forest](https://img.shields.io/badge/-Random%20Forest-darkgreen?style=flat)
-
----
-
-## 💼 Projects
-
-- 🌐 [**Weather Dashboard**](https://weatherdashboard-bgyuzv9bxhs4yf4ktfvzxc.streamlit.app/):  
-  A real-time **Seattle weather prediction app** using a Random Forest model. Includes visualizations like prediction probabilities, feature importance, and interactive temperature trends using Streamlit.
-
-- 📊 [**Startup Investment Analysis**]:  
-  Analyzed funding trends across years, sectors, and cities. Interactive Power BI dashboard built for investors and entrepreneurs to explore India's startup scene.
-
-- 📈 [**Social Media Trend Analysis**]:  
-  Studied trending keywords, engagement metrics, and platform performance using Python, NLP, and visual storytelling.
-
-- 🧩 [**Data Modeling Experts**]:  
-  Hands-on experience designing **normalized relational databases**, ER diagrams, and writing complex SQL queries for real-world use cases.
+### 🤖 Machine Learning
+- Regression, classification
+- Model evaluation metrics
+- Feature engineering
+- Hands-on with real datasets
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarika-max-prog&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Sarika's GitHub Streak" />
-</p>
+| Project | Description |
+|--------|-------------|
+| 🔎 **Startup Analysis** | Power BI dashboard exploring funding trends, top investors, and sector-wise insights |
+| 🌤️ **Weather Dashboard** | Built with Streamlit & Random Forest to predict temperature and weather conditions |
+| 📱 **Social Media Trend Analysis** | Python-based project using scraping and visualization to explore user engagement |
+| 🧩 **Data Modeling Experts** | Normalized database design and SQL queries for business scenarios |
 
 ---
+
+## 🌟 Tools I Use
+
+| Languages | Tools & IDEs | Libraries & Frameworks |
+|----------|---------------|------------------------|
+| Python, SQL, HTML | Jupyter, VS Code, GitHub | Pandas, NumPy, Scikit-learn, Seaborn, BeautifulSoup, Selenium, Plotly |
+
+| BI & Visualization |
+|--------------------|
+| Power BI, Excel, Matplotlib, Streamlit |
+
+---
+
+
+> “Learning by doing — that’s my motto. Let’s build and grow through data, one project at a time.”
+
 
 ## 📫 Let's Connect!
 
