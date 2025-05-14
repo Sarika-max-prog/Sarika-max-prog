@@ -17,32 +17,18 @@ I enjoy turning messy data into clear insights — whether it's a dashboard, a p
 
 ---
 
-## 🛠️ My Skill Set
+🛠️ Skills at a Glance
+🐍 Python for Data Science
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, BeautifulSoup, Selenium
 
-### 🐍 Python for Data Science
-- Data Analysis: `Pandas`, `NumPy`
-- Data Visualization: `Matplotlib`, `Seaborn`, `Plotly`
-- Machine Learning: `Scikit-learn`, `Random Forest`, `Logistic Regression`
-- Web Scraping: `BeautifulSoup`, `Selenium`
-- Automation & APIs
+🧮 SQL
+Joins, Subqueries, CTEs, Window Functions, Data Modeling
 
-### 🧮 SQL
-- Complex queries
-- Joins, subqueries, CTEs
-- Window functions
-- Data modeling and ER diagrams
+📊 Power BI & Excel
+Dashboards, Power Query, DAX, Pivot Tables, Data Cleaning
 
-### 📊 Power BI & Excel
-- Interactive dashboards
-- Power Query & DAX
-- Data cleaning and visual storytelling
-- Charts, pivot tables, slicers
-
-### 🤖 Machine Learning
-- Regression, classification
-- Model evaluation metrics
-- Feature engineering
-- Hands-on with real datasets
+🤖 Machine Learning
+Regression, Classification, Model Evaluation, Feature Engineering
 
 ---
 
@@ -57,16 +43,12 @@ I enjoy turning messy data into clear insights — whether it's a dashboard, a p
 
 ---
 
-## 🌟 Tools I Use
+🔧 Tools & Tech
+Languages	Tools/IDEs	Libraries/Frameworks
+Python, SQL	Jupyter, VS Code, GitHub	Pandas, NumPy, Scikit-learn, Seaborn, Plotly, Selenium
 
-| Languages | Tools & IDEs | Libraries & Frameworks |
-|----------|---------------|------------------------|
-| Python, SQL, HTML | Jupyter, VS Code, GitHub | Pandas, NumPy, Scikit-learn, Seaborn, BeautifulSoup, Selenium, Plotly |
-
-| BI & Visualization |
-|--------------------|
-| Power BI, Excel, Matplotlib, Streamlit |
-
+BI & Visualization
+Power BI, Excel, Streamlit, Matplotlib
 ---
 
 
